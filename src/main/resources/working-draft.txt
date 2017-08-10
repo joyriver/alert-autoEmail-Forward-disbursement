@@ -1,0 +1,10 @@
+File {
+  "/magnum-opus.txt"
+  iconName = "page_white_text"
+  mightHaveThumbnail = false
+  numBytes = 14
+  humanSize = "14 bytes"
+  lastModified = "2013/08/23 02:25:49 UTC"
+  clientMtime = "2013/08/23 02:25:49 UTC"
+  rev = "1312e120be"
+}

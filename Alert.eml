@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: junit:junit:3.8.1" scope="TEST"/>
+	<lib name="Maven: org.projectlombok:lombok:1.16.10" scope="PROVIDED"/>
+	<lib name="Maven: org.testng:testng:6.9.10" scope="TEST"/>
+	<lib name="Maven: com.beust:jcommander:1.48" scope="TEST"/>
+	<lib name="Maven: org.beanshell:bsh:2.0b4" scope="TEST"/>
+	<levels>
+		<level name="Maven: junit:junit:3.8.1" value="project"/>
+		<level name="Maven: MailMan:MailMan:1.0" value="project"/>
+		<level name="Maven: com.thoughtworks.paranamer:paranamer:2.8" value="project"/>
+		<level name="Maven: com.jhlabs:filters:2.0.235-1" value="project"/>
+		<level name="Maven: com.github.jai-imageio:jai-imageio-core:1.3.1" value="project"/>
+		<level name="Maven: com.deathbycaptcha:captcha-killer:1.0" value="project"/>
+		<level name="Maven: org.json:json:1.0" value="project"/>
+		<level name="Maven: org.base64:base64:1.0" value="project"/>
+		<level name="Maven: com.intellij:annotations:12.0" value="project"/>
+		<level name="Maven: com.oracle:javafx:2.2.79" value="project"/>
+		<level name="Maven: org.jdatepicker:jdatepicker:1.3.4" value="project"/>
+		<level name="Maven: com.google.apis:google-api-services-gmail:v1-rev34-1.20.0" value="project"/>
+		<level name="Maven: com.google.api-client:google-api-client:1.20.0" value="project"/>
+		<level name="Maven: com.google.http-client:google-http-client-jackson2:1.20.0" value="project"/>
+		<level name="Maven: com.sun.mail:gimap:1.5.2" value="project"/>
+		<level name="Maven: com.sun.mail:javax.mail:1.5.2" value="project"/>
+		<level name="Maven: javax.activation:activation:1.1" value="project"/>
+		<level name="Maven: com.google.oauth-client:google-oauth-client:1.20.0" value="project"/>
+		<level name="Maven: com.google.http-client:google-http-client:1.20.0" value="project"/>
+		<level name="Maven: com.google.code.findbugs:jsr305:1.3.9" value="project"/>
+		<level name="Maven: com.google.oauth-client:google-oauth-client-jetty:1.20.0" value="project"/>
+		<level name="Maven: com.google.oauth-client:google-oauth-client-java6:1.20.0" value="project"/>
+		<level name="Maven: org.mortbay.jetty:jetty:6.1.26" value="project"/>
+		<level name="Maven: org.mortbay.jetty:jetty-util:6.1.26" value="project"/>
+		<level name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211" value="project"/>
+		<level name="Maven: com.google.apis:google-api-services-oauth2:v2-rev91-1.20.0" value="project"/>
+		<level name="Maven: com.amazonaws:aws-java-sdk-ses:1.9.37" value="project"/>
+		<level name="Maven: com.amazonaws:aws-java-sdk-core:1.9.37" value="project"/>
+		<level name="Maven: org.apache.httpcomponents:httpclient:4.3.4" value="project"/>
+		<level name="Maven: org.apache.httpcomponents:httpcore:4.3.2" value="project"/>
+		<level name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.2" value="project"/>
+		<level name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.0" value="project"/>
+		<level name="Maven: com.amazon:MWS-Products:1.0" value="project"/>
+		<level name="Maven: com.amazon:MWS-Client:1.0" value="project"/>
+		<level name="Maven: technology.integration.amazonservices.mws:amazon-mws-order:1.0" value="project"/>
+		<level name="Maven: commons-codec:commons-codec:1.6" value="project"/>
+		<level name="Maven: org.jfree:jfreechart:1.0.19" value="project"/>
+		<level name="Maven: org.jfree:jcommon:1.0.23" value="project"/>
+		<level name="Maven: joda-time:joda-time:2.7" value="project"/>
+		<level name="Maven: jshortcut:jshortcut:0.4" value="project"/>
+		<level name="Maven: org.quartz-scheduler:quartz:2.2.1" value="project"/>
+		<level name="Maven: c3p0:c3p0:0.9.1.1" value="project"/>
+		<level name="Maven: org.freemarker:freemarker:2.3.21" value="project"/>
+		<level name="Maven: DeployMan:DeployMan:1.0" value="project"/>
+		<level name="Maven: com.dropbox.core:dropbox-core-sdk:1.7.7" value="project"/>
+		<level name="Maven: com.fasterxml.jackson.core:jackson-core:2.4.0-rc3" value="project"/>
+		<level name="Maven: commons-io:commons-io:2.4" value="project"/>
+		<level name="Maven: log4j:log4j:1.2.17" value="project"/>
+		<level name="Maven: org.nutz:nutz:1.b.51" value="project"/>
+		<level name="Maven: org.xerial:sqlite-jdbc:3.8.7" value="project"/>
+		<level name="Maven: commons-validator:commons-validator:1.4.1" value="project"/>
+		<level name="Maven: commons-collections:commons-collections:3.2.1" value="project"/>
+		<level name="Maven: org.apache.commons:commons-dbcp2:2.0.1" value="project"/>
+		<level name="Maven: org.apache.commons:commons-pool2:2.2" value="project"/>
+		<level name="Maven: com.codeborne:phantomjsdriver:1.2.1" value="project"/>
+		<level name="Maven: com.google.inject:guice:3.0" value="project"/>
+		<level name="Maven: javax.inject:javax.inject:1" value="project"/>
+		<level name="Maven: aopalliance:aopalliance:1.0" value="project"/>
+		<level name="Maven: org.seleniumhq.selenium:selenium-java:2.46.0" value="project"/>
+		<level name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:2.46.0" value="project"/>
+		<level name="Maven: org.seleniumhq.selenium:selenium-remote-driver:2.46.0" value="project"/>
+		<level name="Maven: cglib:cglib-nodep:2.1_3" value="project"/>
+		<level name="Maven: com.google.code.gson:gson:2.3.1" value="project"/>
+		<level name="Maven: org.seleniumhq.selenium:selenium-api:2.46.0" value="project"/>
+		<level name="Maven: com.google.guava:guava:18.0" value="project"/>
+		<level name="Maven: net.java.dev.jna:jna:4.1.0" value="project"/>
+		<level name="Maven: net.java.dev.jna:jna-platform:4.1.0" value="project"/>
+		<level name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:2.46.0" value="project"/>
+		<level name="Maven: org.apache.commons:commons-exec:1.3" value="project"/>
+		<level name="Maven: org.seleniumhq.selenium:selenium-support:2.46.0" value="project"/>
+		<level name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.46.0" value="project"/>
+		<level name="Maven: org.jsoup:jsoup:1.8.3" value="project"/>
+		<level name="Maven: com.alibaba:fastjson:1.1.41" value="project"/>
+		<level name="Maven: org.apache.commons:commons-collections4:4.1" value="project"/>
+		<level name="Maven: org.apache.commons:commons-lang3:3.3.2" value="project"/>
+		<level name="Maven: org.apache.commons:commons-email:1.4" value="project"/>
+		<level name="Maven: commons-net:commons-net:3.3" value="project"/>
+		<level name="Maven: net.lingala.zip4j:zip4j:1.3.2" value="project"/>
+		<level name="Maven: ch.qos.logback:logback-classic:1.1.2" value="project"/>
+		<level name="Maven: ch.qos.logback:logback-core:1.1.2" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-api:1.7.6" value="project"/>
+		<level name="Maven: org.slf4j:log4j-over-slf4j:1.7.7" value="project"/>
+		<level name="Maven: com.google.gdata:gdata-client:1.0" value="project"/>
+		<level name="Maven: com.google.gdata:gdata-client-meta:1.0" value="project"/>
+		<level name="Maven: com.google.gdata:gdata-core:1.0" value="project"/>
+		<level name="Maven: com.google.gdata:gdata-spreadsheet:3.0" value="project"/>
+		<level name="Maven: com.google.gdata:gdata-spreadsheet-meta:3.0" value="project"/>
+		<level name="Maven: org.projectlombok:lombok:1.16.10" value="project"/>
+		<level name="Maven: javax.transaction:jta:1.1" value="project"/>
+		<level name="Maven: commons-digester:commons-digester:1.8" value="project"/>
+		<level name="Maven: commons-logging:commons-logging:1.1" value="project"/>
+		<level name="Maven: logkit:logkit:1.0.1" value="project"/>
+		<level name="Maven: avalon-framework:avalon-framework:4.1.3" value="project"/>
+		<level name="Maven: javax.servlet:servlet-api:2.3" value="project"/>
+		<level name="Maven: commons-beanutils:commons-beanutils:1.8.3" value="project"/>
+		<level name="Maven: org.testng:testng:6.9.10" value="project"/>
+		<level name="Maven: com.beust:jcommander:1.48" value="project"/>
+		<level name="Maven: org.beanshell:bsh:2.0b4" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: DeployMan:DeployMan:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/DeployMan/DeployMan/1.0/DeployMan-1.0.jar" />
+  </library>
+  <library name="Maven: MailMan:MailMan:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/MailMan/MailMan/1.0/MailMan-1.0.jar" />
+  </library>
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+  </library>
+  <library name="Maven: avalon-framework:avalon-framework:4.1.3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar" />
+  </library>
+  <library name="Maven: c3p0:c3p0:0.9.1.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1.jar" />
+  </library>
+  <library name="Maven: cglib:cglib-nodep:2.1_3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-classic:1.1.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-core:1.1.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar" />
+  </library>
+  <library name="Maven: com.alibaba:fastjson:1.1.41">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/alibaba/fastjson/1.1.41/fastjson-1.1.41.jar" />
+  </library>
+  <library name="Maven: com.amazon:MWS-Client:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/amazon/MWS-Client/1.0/MWS-Client-1.0.jar" />
+  </library>
+  <library name="Maven: com.amazon:MWS-Products:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/amazon/MWS-Products/1.0/MWS-Products-1.0.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-core:1.9.37">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/amazonaws/aws-java-sdk-core/1.9.37/aws-java-sdk-core-1.9.37.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-ses:1.9.37">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/amazonaws/aws-java-sdk-ses/1.9.37/aws-java-sdk-ses-1.9.37.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.48">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/beust/jcommander/1.48/jcommander-1.48.jar" />
+  </library>
+  <library name="Maven: com.codeborne:phantomjsdriver:1.2.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/codeborne/phantomjsdriver/1.2.1/phantomjsdriver-1.2.1.jar" />
+  </library>
+  <library name="Maven: com.deathbycaptcha:captcha-killer:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/deathbycaptcha/captcha-killer/1.0/captcha-killer-1.0.jar" />
+  </library>
+  <library name="Maven: com.dropbox.core:dropbox-core-sdk:1.7.7">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/dropbox/core/dropbox-core-sdk/1.7.7/dropbox-core-sdk-1.7.7.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.4.0-rc3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.4.0-rc3/jackson-core-2.4.0-rc3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.3.2/jackson-databind-2.3.2.jar" />
+  </library>
+  <library name="Maven: com.github.jai-imageio:jai-imageio-core:1.3.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar" />
+  </library>
+  <library name="Maven: com.google.api-client:google-api-client:1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/api-client/google-api-client/1.20.0/google-api-client-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.apis:google-api-services-gmail:v1-rev34-1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/apis/google-api-services-gmail/v1-rev34-1.20.0/google-api-services-gmail-v1-rev34-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.apis:google-api-services-oauth2:v2-rev91-1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/apis/google-api-services-oauth2/v2-rev91-1.20.0/google-api-services-oauth2-v2-rev91-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:1.3.9">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.3.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar" />
+  </library>
+  <library name="Maven: com.google.gdata:gdata-client:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/gdata/gdata-client/1.0/gdata-client-1.0.jar" />
+  </library>
+  <library name="Maven: com.google.gdata:gdata-client-meta:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/gdata/gdata-client-meta/1.0/gdata-client-meta-1.0.jar" />
+  </library>
+  <library name="Maven: com.google.gdata:gdata-core:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/gdata/gdata-core/1.0/gdata-core-1.0.jar" />
+  </library>
+  <library name="Maven: com.google.gdata:gdata-spreadsheet:3.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/gdata/gdata-spreadsheet/3.0/gdata-spreadsheet-3.0.jar" />
+  </library>
+  <library name="Maven: com.google.gdata:gdata-spreadsheet-meta:3.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/gdata/gdata-spreadsheet-meta/3.0/gdata-spreadsheet-meta-3.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:18.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+  </library>
+  <library name="Maven: com.google.http-client:google-http-client:1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/http-client/google-http-client/1.20.0/google-http-client-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.http-client:google-http-client-jackson2:1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/http-client/google-http-client-jackson2/1.20.0/google-http-client-jackson2-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.inject:guice:3.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar" />
+  </library>
+  <library name="Maven: com.google.oauth-client:google-oauth-client:1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/oauth-client/google-oauth-client/1.20.0/google-oauth-client-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.oauth-client:google-oauth-client-java6:1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/oauth-client/google-oauth-client-java6/1.20.0/google-oauth-client-java6-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.oauth-client:google-oauth-client-jetty:1.20.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/google/oauth-client/google-oauth-client-jetty/1.20.0/google-oauth-client-jetty-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.intellij:annotations:12.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+  </library>
+  <library name="Maven: com.jhlabs:filters:2.0.235-1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/jhlabs/filters/2.0.235-1/filters-2.0.235-1.jar" />
+  </library>
+  <library name="Maven: com.oracle:javafx:2.2.79">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/oracle/javafx/2.2.79/javafx-2.2.79.jar" />
+  </library>
+  <library name="Maven: com.sun.mail:gimap:1.5.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/sun/mail/gimap/1.5.2/gimap-1.5.2.jar" />
+  </library>
+  <library name="Maven: com.sun.mail:javax.mail:1.5.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/sun/mail/javax.mail/1.5.2/javax.mail-1.5.2.jar" />
+  </library>
+  <library name="Maven: com.thoughtworks.paranamer:paranamer:2.8">
+    <archive path="C:/Users/ACC18-8/.m2/repository/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.8.3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.6">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-codec/commons-codec/1.6/commons-codec-1.6.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" />
+  </library>
+  <library name="Maven: commons-digester:commons-digester:1.8">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.4">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-logging/commons-logging/1.1/commons-logging-1.1.jar" />
+  </library>
+  <library name="Maven: commons-net:commons-net:3.3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-net/commons-net/3.3/commons-net-3.3.jar" />
+  </library>
+  <library name="Maven: commons-validator:commons-validator:1.4.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/commons-validator/commons-validator/1.4.1/commons-validator-1.4.1.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: javax.inject:javax.inject:1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar" />
+  </library>
+  <library name="Maven: javax.servlet:servlet-api:2.3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar" />
+  </library>
+  <library name="Maven: javax.transaction:jta:1.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/javax/transaction/jta/1.1/jta-1.1.jar" />
+  </library>
+  <library name="Maven: joda-time:joda-time:2.7">
+    <archive path="C:/Users/ACC18-8/.m2/repository/joda-time/joda-time/2.7/joda-time-2.7.jar" />
+  </library>
+  <library name="Maven: jshortcut:jshortcut:0.4">
+    <archive path="C:/Users/ACC18-8/.m2/repository/jshortcut/jshortcut/0.4/jshortcut-0.4.jar" />
+  </library>
+  <library name="Maven: junit:junit:3.8.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="C:/Users/ACC18-8/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: logkit:logkit:1.0.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/logkit/logkit/1.0.1/logkit-1.0.1.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna:4.1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna-platform:4.1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar" />
+  </library>
+  <library name="Maven: net.lingala.zip4j:zip4j:1.3.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-collections4:4.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-dbcp2:2.0.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/commons/commons-dbcp2/2.0.1/commons-dbcp2-2.0.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-email:1.4">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/commons/commons-email/1.4/commons-email-1.4.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-exec:1.3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.3.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-pool2:2.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/commons/commons-pool2/2.2/commons-pool2-2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.3.4">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.3.2">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar" />
+  </library>
+  <library name="Maven: org.base64:base64:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/base64/base64/1.0/base64-1.0.jar" />
+  </library>
+  <library name="Maven: org.beanshell:bsh:2.0b4">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar" />
+  </library>
+  <library name="Maven: org.freemarker:freemarker:2.3.21">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/freemarker/freemarker/2.3.21/freemarker-2.3.21.jar" />
+  </library>
+  <library name="Maven: org.jdatepicker:jdatepicker:1.3.4">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/jdatepicker/jdatepicker/1.3.4/jdatepicker-1.3.4.jar" />
+  </library>
+  <library name="Maven: org.jfree:jcommon:1.0.23">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar" />
+  </library>
+  <library name="Maven: org.jfree:jfreechart:1.0.19">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.jar" />
+  </library>
+  <library name="Maven: org.json:json:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/json/json/1.0/json-1.0.jar" />
+  </library>
+  <library name="Maven: org.jsoup:jsoup:1.8.3">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jetty:6.1.26">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jetty-util:6.1.26">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar" />
+  </library>
+  <library name="Maven: org.nutz:nutz:1.b.51">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/nutz/nutz/1.b.51/nutz-1.b.51.jar" />
+  </library>
+  <library name="Maven: org.projectlombok:lombok:1.16.10">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/projectlombok/lombok/1.16.10/lombok-1.16.10.jar" />
+  </library>
+  <library name="Maven: org.quartz-scheduler:quartz:2.2.1">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:2.46.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/seleniumhq/selenium/selenium-api/2.46.0/selenium-api-2.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:2.46.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/2.46.0/selenium-chrome-driver-2.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:2.46.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/2.46.0/selenium-firefox-driver-2.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:2.46.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/seleniumhq/selenium/selenium-java/2.46.0/selenium-java-2.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.46.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/seleniumhq/selenium/selenium-leg-rc/2.46.0/selenium-leg-rc-2.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:2.46.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.46.0/selenium-remote-driver-2.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:2.46.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/seleniumhq/selenium/selenium-support/2.46.0/selenium-support-2.46.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:log4j-over-slf4j:1.7.7">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.6">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:6.9.10">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/testng/testng/6.9.10/testng-6.9.10.jar" />
+  </library>
+  <library name="Maven: org.xerial:sqlite-jdbc:3.8.7">
+    <archive path="C:/Users/ACC18-8/.m2/repository/org/xerial/sqlite-jdbc/3.8.7/sqlite-jdbc-3.8.7.jar" />
+  </library>
+  <library name="Maven: technology.integration.amazonservices.mws:amazon-mws-order:1.0">
+    <archive path="C:/Users/ACC18-8/.m2/repository/technology/integration/amazonservices/mws/amazon-mws-order/1.0/amazon-mws-order-1.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
